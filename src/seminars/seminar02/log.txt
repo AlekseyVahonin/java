@@ -1,0 +1,2 @@
+нояб. 24, 2023 8:55:33 PM seminars.seminar02.Main4 writeInFile
+INFO: 12333
